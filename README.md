@@ -3,7 +3,7 @@
 - Alan de Souza Maximiano - RM557088@fiap.com.br
 - Lancelot Chagas Rodrigues - RM554707@fiap.com.br
 - Marcia Ricardo Rosano - RM557464@fiap.com.br
-- Mizael Vieira Berra - RM555796@fiap.com.br
+- Mizael Vieira Bezerra - RM555796@fiap.com.br
 - Paulo Carvalo Ruiz Borba - RM554562@fiap.com.br
 
 🔍 **Classificador de Sentimentos para Avaliações de Smartphones**
